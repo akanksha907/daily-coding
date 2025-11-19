@@ -13,6 +13,7 @@ public class Greeting {
 	   System.out.println("Enter the name:: ");
 	   name=sc.next();
 	   System.out.println("name is::"+name);
+	   System.out.println("pawar");
 	   
 	   
 }
